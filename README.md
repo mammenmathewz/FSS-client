@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+Edited by Midhun Kalarikkal
